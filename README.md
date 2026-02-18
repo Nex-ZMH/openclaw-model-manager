@@ -1,35 +1,73 @@
-# OpenClaw Model Switcher
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/logo.jpg" width="220" alt="OpenClaw Model Switcher Logo">
+</p>
 
-English | [中文](README_CN.md)
+<h1 align="center">OpenClaw Model Switcher 🦀</h1>
 
-An interactive model switcher for [OpenClaw](https://github.com/sst/openclaw) with a beautiful terminal UI.
+<p align="center">
+  <b>Zero friction. Zero config. 100% Interactive.</b>
+</p>
 
-![Demo](screenshot.png)
+<p align="center">
+  ⚡ Launch. Select. Play. The elegant model manager for OpenClaw.
+</p>
 
-## Features
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PowerShell-5.1+-blue.svg?style=flat-square&logo=powershell" alt="PowerShell">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Platform-Windows-green.svg?style=flat-square&logo=windows" alt="Platform">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg?style=flat-square" alt="Status">
+  </a>
+</p>
 
-- Interactive model selection with arrow keys
-- Space to mark, Enter to confirm
-- Automatic model detection from `openclaw.json`
-- Command-line arguments for scripting
-- Cross-platform support (Windows now, Linux/macOS planned)
+<p align="center">
+  <a href="#english">English</a> ·
+  <a href="#中文">简体中文</a> ·
+  <a href="#getting-started">Getting Started</a> ·
+  <a href="#features">Features</a> ·
+  <a href="#installation">Installation</a> ·
+  <a href="#contributing">Contributing</a>
+</p>
 
-## Installation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/ScreenShot.png" width="800" alt="Demo Screenshot">
+</p>
 
-### Quick Install (Windows)
+---
+
+## English
+
+### Getting Started
+
+**OpenClaw Model Switcher** — An elegant, interactive model switcher that transforms your OpenClaw experience. Featuring a polished terminal UI, it automatically detects available models from `openclaw.json` and empowers you to seamlessly switch configurations at launch — no manual file editing required.
+
+### Features
+
+- 🎮 **Interactive Selection** — Navigate effortlessly with arrow keys, mark with Space, confirm with Enter
+- ⚡ **Zero-Config Automation** — Auto-detects models and synchronizes with `openclaw.json` in real-time
+- 🖥️ **Beautiful TUI** — Clean, intuitive terminal interface for a premium CLI experience
+- 🔧 **Scripting Ready** — Full command-line argument support for power users and automation
+- 🌐 **Cross-Platform** — Windows ready, Linux & macOS coming soon
+
+### Installation
 
 ```powershell
-irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/install.ps1 | iex
-```
-
-### Manual Install
-
-```bash
+# Clone the repository
 git clone https://github.com/Nex-ZMH/openclaw-model-switcher.git
+
+# Navigate to directory
 cd openclaw-model-switcher
+
+# Run installer
 .\install.ps1
 ```
-
 Restart your terminal after installation.
 
 ## Usage
