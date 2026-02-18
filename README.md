@@ -163,7 +163,6 @@ The manager reads model configurations from `~/.openclaw/openclaw.json` and modi
 - [ ] macOS support
 - [ ] Model search/filter
 - [ ] Recent models history
----
 
 ## Author
 
@@ -172,6 +171,8 @@ The manager reads model configurations from `~/.openclaw/openclaw.json` and modi
 ## License
 
 [MIT](LICENSE)
+
+---
 
 ## 中文
 
