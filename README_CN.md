@@ -1,10 +1,10 @@
-# OpenClaw Model Switcher
+# OpenClaw Model Manager
 
 [English](README.md) | 中文
 
 ### 简介
 
-**OpenClaw Model Switcher** — 一款优雅的交互式模型切换工具，为您的 OpenClaw 使用体验带来全新升级。它拥有精致的终端界面，能够自动从 openclaw.json 中检测可用模型，让您在启动时轻松切换配置，无需手动编辑文件。
+**OpenClaw Model Manager** — 一款优雅的交互式模型切换工具，为您的 OpenClaw 使用体验带来全新升级。它拥有精致的终端界面，能够自动从 openclaw.json 中检测可用模型，让您在启动时轻松切换配置，无需手动编辑文件。
 
 ### 功能特性
 
@@ -19,10 +19,10 @@
 
 ```powershell
 # 克隆仓库
-git clone https://github.com/Nex-ZMH/openclaw-model-switcher.git
+git clone https://github.com/Nex-ZMH/openclaw-model-manager.git
 
 # 进入目录
-cd openclaw-model-switcher
+cd openclaw-model-manager
 
 # 运行安装脚本
 .\install.ps1
@@ -99,7 +99,7 @@ openclaw gateway --skip
 或：
 
 ```powershell
-irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/uninstall.ps1 | iex
+irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/uninstall.ps1 | iex
 ```
 
 ### 系统要求
