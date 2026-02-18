@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/logo.jpg" width="660" alt="OpenClaw Model manager Logo">
+  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/logo.jpg" width="660" alt="OpenClaw Model Manager Logo">
 </p>
 </p>
-<h1 align="center">OpenClaw Model manager 🦞</h1>
+<h1 align="center">OpenClaw Model Manager 🦞</h1>
 
 <p align="center">
   <b>Zero friction. Zero config. 100% Interactive.</b>
@@ -50,7 +50,7 @@ Built by Nex-ZMH,an energy industry AI explorer from a remote mountain village o
 
 ### Getting Started
 
-**OpenClaw Model manager** — An elegant, interactive model manager that transforms your OpenClaw experience. Featuring a polished terminal UI, it automatically detects available models from `openclaw.json` and empowers you to seamlessly switch configurations at launch — no manual file editing required.
+**OpenClaw Model Manager** — An elegant, interactive model manager that transforms your OpenClaw experience. Featuring a polished terminal UI, it automatically detects available models from `openclaw.json` and empowers you to seamlessly switch configurations at launch — no manual file editing required.
 
 ### Features
 
@@ -169,7 +169,7 @@ The manager reads model configurations from `~/.openclaw/openclaw.json` and modi
 
 ### 简介
 
-**OpenClaw Model manager** — 一款优雅的交互式模型切换工具，为您的 OpenClaw 使用体验带来全新升级。它拥有精致的终端界面，能够自动从 openclaw.json 中检测可用模型，让您在启动时轻松切换配置，无需手动编辑文件。
+**OpenClaw Model Manager** — 一款优雅的交互式模型切换工具，为您的 OpenClaw 使用体验带来全新升级。它拥有精致的终端界面，能够自动从 openclaw.json 中检测可用模型，让您在启动时轻松切换配置，无需手动编辑文件。
 
 ### 功能特性
 
