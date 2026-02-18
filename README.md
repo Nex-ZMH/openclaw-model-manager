@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/logo.jpg" width="660" alt="OpenClaw Model Switcher Logo">
 </p>
 </p>
-<h1 align="center">OpenClaw Model Switcher 🦀</h1>
+<h1 align="center">OpenClaw Model Switcher 🦞</h1>
 
 <p align="center">
   <b>Zero friction. Zero config. 100% Interactive.</b>
