@@ -38,7 +38,6 @@ Built by Nex-ZMH,an energy industry AI explorer from a remote mountain village o
   <a href="#getting-started">Getting Started</a> ·
   <a href="#features">Features</a> ·
   <a href="#installation">Installation</a> ·
-  <a href="#contributing">Contributing</a>
 </p>
 
 <p align="center">
@@ -136,7 +135,7 @@ openclaw gateway --list
 openclaw gateway --skip
 ```
 
-#### Uninstallation
+### Uninstallation
 
 ```powershell
 .\uninstall.ps1
@@ -148,17 +147,17 @@ Or:
 irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/uninstall.ps1 | iex
 ```
 
-#### Requirements
+### Requirements
 
 - [OpenClaw](https://github.com/sst/openclaw) installed globally via npm
 - PowerShell 5.1+ (Windows)
 - Node.js
 
-#### How It Works
+### How It Works
 
 The switcher reads model configurations from `~/.openclaw/openclaw.json` and modifies the `agents.defaults.model.primary` field when you select a model.
 
-#### Roadmap
+### Roadmap
 
 - [ ] Linux support (bash script)
 - [ ] macOS support
