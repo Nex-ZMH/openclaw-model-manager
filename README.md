@@ -45,7 +45,12 @@ Built by Nex-ZMH,an energy industry AI explorer from a remote mountain village o
 </p>
 
 ---
+2026.2.23 updated，this project tool can also be used for model selection with Claude code.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/ScreenShot-claude.png" width="500" alt="Demo Screenshot">
+</p>
 
+---
 ## English
 
 ### Getting Started
